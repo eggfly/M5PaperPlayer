@@ -1,1 +1,12 @@
 # M5PaperPlayer
+
+* PORT.A: G25, G32
+* PORT.C: G19, G18
+* PORT.B: G33, G26
+* B+C: 18, 19, 26, 33
+* G18: No ADC
+* G19: No ADC
+* G26: ADC2_9, DAC_2
+* G33: ADC1_5
+
+* 34,35,36,39: INPUT ONLY
